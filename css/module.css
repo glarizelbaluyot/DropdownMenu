@@ -1,0 +1,17 @@
+.menu-bar ul li a{
+  text-decoration: none;
+  color: white;
+  display: block;
+}
+.menu-bar ul ul{
+  position: absolute;
+  display: none;
+}
+.menu-bar ul ul{
+  position: absolute;
+  display: none;
+}
+.menu-bar ul ul ul{
+  margin-left: 120px;
+  top: 0px;
+}
